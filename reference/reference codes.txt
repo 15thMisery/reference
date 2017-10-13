@@ -1,0 +1,27 @@
+Git your hands Dirty
+
+git config --global user.name "<your name>" ---> Your name in git
+it config --global user.email "<your email>" ---> Your email in git
+
+pwd --> Print working directory
+cd </Directory> --> Change Directory
+mkdir "<file name>" --> Make Directory
+touch "<filename.html>"
+
+git init --> Create Repository in your current PWD
+
+git status --> see all changes in your repository
+
+git add <file name> --> Staging a file before commiting
+
+git commit -m '<comment>' --> commit staged files to save in your repository
+
+git checkout -- . --> restore to last commit in your repository
+
+git clone <Server Site> --> Clone repository from a server
+
+git remote -v --> Shows you the origin of the fetch cloned file and where it will push it
+
+git remote set-url origin <"LINK?URL of Repository"> --> lets you change your origin
+
+
