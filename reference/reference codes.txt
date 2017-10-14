@@ -25,3 +25,7 @@ git remote -v --> Shows you the origin of the fetch cloned file and where it wil
 git remote set-url origin <"LINK?URL of Repository"> --> lets you change your origin
 
 git push origin master --> upload the file to your github repository
+
+npm init --> Creates package.json file
+
+npm install <package name> --save --> install node module packages and saves it in your package.json file.
